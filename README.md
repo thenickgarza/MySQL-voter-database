@@ -1,0 +1,1 @@
+# MySQL-voter-database
